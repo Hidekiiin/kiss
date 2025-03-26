@@ -9,11 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "ably": "^2.6.5",
+  "ably": "^1.2.39",
+  "webrtc-adapter": "^8.2.3",
+  "dependencies": {
     "next": "15.2.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "webrtc-adapter": "^9.0.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
